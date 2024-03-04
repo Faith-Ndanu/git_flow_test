@@ -3,13 +3,17 @@
     
     
   } 
-   
-   
-   
-   
-   
-   
+   #content{
+    display: flex;
+    
+   }
+   .container{
+    padding-right: 300px;
+   }
+
+  
    #image{
-    width: 100px;
-    height: 120px;
+    width: 500px;
+    height: 520px;
+    margin-left: 30%;
 }
